@@ -1,4 +1,4 @@
-## Documentation Bubble Sort algorithm - Level 3 Prompt
+## Documentation Bubble Sort algorithm - Level 3 Prompt - Bard
 
 **Setting up and Starting the Program:**
 

@@ -1,4 +1,4 @@
-## Documentation Bubble Sort algorithm - Level 2 Prompt
+## Documentation Bubble Sort algorithm - Level 2 Prompt - Bard
 
 This program implements a bubble sort algorithm to sort a sequence of numbers. The user is first prompted to enter a sequence of numbers. The program then converts the user input to a list of numbers, ensuring that only numbers between 0 and 9 are included. The bubble sort algorithm is then used to sort the numbers. Finally, the sorted numbers are printed to the console.
 

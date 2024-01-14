@@ -11,7 +11,3 @@ def bubble_sort(array):
                 is_sorted = False
 
     return array
-
-unsorted_list = [5, 2, 4, 1, 3]
-sorted_list = bubble_sort(unsorted_list)
-print(sorted_list)

@@ -1,0 +1,25 @@
+body {
+    font-family: sans-serif;
+  }
+  
+  #animals-table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  #animals-table th, #animals-table td {
+    padding: 10px;
+    border: 1px solid #ccc;
+  }
+  
+  .buttons {
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  #add-animal-button, #delete-animal-button, #update-animal-button {
+    padding: 10px;
+    cursor: pointer;
+  }
+  
