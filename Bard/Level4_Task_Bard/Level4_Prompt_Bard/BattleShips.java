@@ -10,8 +10,8 @@ public class BattleShips extends JFrame {
     private JLabel[] labels;
     private int[][] grid;
     private int[][] enemyGrid;
-    private boolean[][] hit;
-    private boolean[][] sunk;
+    private boolean[] hit;
+    private boolean[] sunk;
 
     public BattleShips() {
         super("Battleships");
