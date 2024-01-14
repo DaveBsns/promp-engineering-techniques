@@ -1,3 +1,5 @@
+## Documentation Battleships against the computer - Level 3 Prompt - Bard
+
 **Game Overview**
 
 Welcome to the classic battleship game! In this two-player challenge, you'll take turns trying to sink your opponent's ships by guessing their locations on a 10x10 grid. Each player has three ships, each consisting of three adjacent squares. The goal is to sink all of your opponent's ships before they sink yours.
