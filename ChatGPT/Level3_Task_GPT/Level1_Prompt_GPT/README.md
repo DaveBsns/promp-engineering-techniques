@@ -1,0 +1,1 @@
+Copy and paste this code into a Python file, run it, and you should see a simple Snake game window. Use the arrow keys to control the snake (Up, Down, Left, Right). The game speed is controlled by the speed variable, and you can adjust it to make the game faster or slower.
